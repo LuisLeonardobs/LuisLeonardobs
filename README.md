@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**LuisLeonardobs/LuisLeonardobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello World 👋
 
-Here are some ideas to get you started:
+- 👨‍🍳 Chef de formação, dev por paixão  
+- 🔄 Transição de carreira: Gastronomia → Desenvolvimento  
+- 🚀 Explorando códigos entre um café e outro 
+- 🛠️ Stack atual: HTML, CSS, JavaScript, Git, Python  
+- 📍 SP | Brasil  
+- 🎓 ADS em andamento | Autodidata nas horas vagas  
+- 🚀 Em busca da primeira oportunidade na área de tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
