@@ -62,4 +62,3 @@
 <div align="center">
   <p>🚀 Obrigado por visitar meu perfil 🚀</p>
 </d>
-pq o meu gif nao esta funcionando no github ?
