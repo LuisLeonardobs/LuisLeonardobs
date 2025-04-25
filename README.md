@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o Luis Leonardo! 🎮</h1>
 
 <p align="center">
-  <img src="./hacker hacking.gif" width="200" alt="Gif gamer representando minha vibe">
+  <img src="/hacker hacking.gif" width="200" alt="Gif gamer representando minha vibe">
 </p>
 
 <p align="center">
